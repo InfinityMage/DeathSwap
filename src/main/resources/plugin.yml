@@ -1,0 +1,8 @@
+name: DeathSwap
+version: 1.0
+author: InfinityMage
+description: Track other players using compasses!
+main: club.infinitymage.deathswap.DeathSwap
+api-version: 1.16
+commands:
+  deathswap:
